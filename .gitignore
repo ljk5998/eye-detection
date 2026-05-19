@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/raw/*
+data/processed/*
+data/visualization/*
+data/models/*
+data/.cache/
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/visualization/.gitkeep
+!data/models/.gitkeep
